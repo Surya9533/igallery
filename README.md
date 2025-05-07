@@ -184,7 +184,8 @@ footer p {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/40e9fade-8dc5-4353-926e-4cabdef26732)
+![image](https://github.com/user-attachments/assets/f3ab9ce9-0e22-4943-a15d-b1996a45cab1)
+
 
 
 ## RESULT:
